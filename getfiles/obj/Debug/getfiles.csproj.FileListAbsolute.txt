@@ -1,0 +1,13 @@
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\bin\Debug\getfiles.exe.config
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\bin\Debug\getfiles.exe
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\bin\Debug\getfiles.pdb
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles.csprojResolveAssemblyReference.cache
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\MainWindow.baml
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\MainWindow.g.cs
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\App.g.cs
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles_MarkupCompile.cache
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles.g.resources
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles.Properties.Resources.resources
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles.csproj.GenerateResource.Cache
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles.exe
+d:\users\lucas\documents\visual studio 2012\Projects\getfiles\getfiles\obj\Debug\getfiles.pdb
